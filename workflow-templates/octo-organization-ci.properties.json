@@ -1,0 +1,14 @@
+{
+    "name": "Octo Organization Workflow",
+    "description": "Octo Organization CI workflow template.",
+    "iconName": "Octo",
+    "categories": [
+        "Go",
+        "Java"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.xml$"
+    ]
+}
